@@ -1,0 +1,21 @@
+{
+  "globalDependencies": {
+    "lodash": "registry:dt/lodash#4.14.0+20161004174455",
+    "react": "registry:dt/react#0.14.0+20161008064207",
+    "react-dom": "registry:dt/react-dom#0.14.0+20160412154040",
+    "react-redux": "registry:dt/react-redux#4.4.0+20160908183346",
+    "react-router": "registry:dt/react-router#2.0.0+20160928130202",
+    "redux": "registry:dt/redux#3.5.2+20160703092728"
+  },
+  "globalDevDependencies": {
+    "babel-core": "registry:dt/babel-core#6.7.0+20160423062108",
+    "chai": "registry:dt/chai#3.4.0+20160601211834",
+    "chai-jquery": "registry:dt/chai-jquery#1.1.1+20160724063359",
+    "jquery": "registry:dt/jquery#1.10.0+20160929162922",
+    "jsdom": "registry:dt/jsdom#2.0.0+20160906180921",
+    "mocha": "registry:dt/mocha#2.2.5+20160720003353",
+    "react-addons-test-utils": "registry:dt/react-addons-test-utils#0.14.0+20160427035638",
+    "webpack": "registry:dt/webpack#1.12.9+20160927034556",
+    "webpack-dev-server": "registry:dt/webpack-dev-server#1.12.1+20161006194436"
+  }
+}
